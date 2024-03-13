@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/grosary/static/css/main.44daa884.css",
+    "main.js": "/grosary/static/js/main.3b9c4c1f.js",
+    "static/js/453.44f0d2f8.chunk.js": "/grosary/static/js/453.44f0d2f8.chunk.js",
+    "index.html": "/grosary/index.html",
+    "main.44daa884.css.map": "/grosary/static/css/main.44daa884.css.map",
+    "main.3b9c4c1f.js.map": "/grosary/static/js/main.3b9c4c1f.js.map",
+    "453.44f0d2f8.chunk.js.map": "/grosary/static/js/453.44f0d2f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44daa884.css",
+    "static/js/main.3b9c4c1f.js"
+  ]
+}
